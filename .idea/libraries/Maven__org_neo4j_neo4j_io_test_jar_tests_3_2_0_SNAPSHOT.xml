@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.neo4j:neo4j-io:test-jar:tests:3.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-io/3.2.0-SNAPSHOT/neo4j-io-3.2.0-20161206.030833-30-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-io/3.2.0-SNAPSHOT/neo4j-io-3.2.0-20161206.030833-30-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-io/3.2.0-SNAPSHOT/neo4j-io-3.2.0-20161206.030833-30-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

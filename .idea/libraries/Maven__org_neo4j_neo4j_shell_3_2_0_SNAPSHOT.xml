@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.neo4j:neo4j-shell:3.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-shell/3.2.0-SNAPSHOT/neo4j-shell-3.2.0-20161206.040359-27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-shell/3.2.0-SNAPSHOT/neo4j-shell-3.2.0-20161206.040359-27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-shell/3.2.0-SNAPSHOT/neo4j-shell-3.2.0-20161206.040359-27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
